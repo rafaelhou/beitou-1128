@@ -16,4 +16,5 @@
 
 ## 部署
 
-尚未部署。
+- GitHub Pages：<https://rafaelhou.github.io/beitou-1128/>（main 分支根目錄）
+- Cloudflare Pages：<https://beitou-1128.pages.dev>（Git 連結，push 到 main 自動部署）
