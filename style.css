@@ -318,7 +318,7 @@ a:hover { text-decoration-thickness: 2px; }
   display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;
   gap: 4px 12px; margin-bottom: 8px;
 }
-.call-head h3 { margin: 0; }
+.call-head h3 { margin: 0; overflow-wrap: anywhere; min-width: 0; }
 .tel {
   font-family: var(--mono); font-weight: 600; font-size: 15px;
   display: inline-block; padding: 6px 12px; border-radius: 8px;

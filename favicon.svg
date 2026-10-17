@@ -1,9 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <rect width="32" height="32" rx="6" fill="#0E4F52"/>
-  <g fill="none" stroke="#F3E3A0" stroke-width="2.4" stroke-linecap="round">
-    <path d="M11 13 Q8 10 11 7"/>
-    <path d="M16 13 Q13 10 16 7"/>
-    <path d="M21 13 Q18 10 21 7"/>
-  </g>
-  <path d="M6 18 H26 Q26 27 16 27 Q6 27 6 18 Z" fill="#F3E3A0"/>
+  <path d="M16 5 Q13.5 8.5 16 10.5 Q18.5 8.5 16 5 Z" fill="#F3E3A0"/>
+  <rect x="15" y="10" width="2" height="5" fill="#F3E3A0"/>
+  <rect x="7" y="15" width="18" height="5" rx="1.5" fill="#F3E3A0"/>
+  <rect x="5" y="20" width="22" height="7" rx="1.5" fill="#F3E3A0" opacity=".8"/>
 </svg>
