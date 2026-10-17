@@ -284,6 +284,8 @@ a:hover { text-decoration-thickness: 2px; }
 .c-red   { --lc: #D8002A; --cc: #C10025; }
 .c-green { --lc: #00714A; --cc: #00714A; }
 .c-pink  { --lc: #F58EA7; --cc: #B8365A; }
+.c-blue  { --lc: #0070BD; --cc: #0070BD; }
+.c-orange { --lc: #E39400; --cc: #8A5A00; }
 
 /* ---------- 並排比較 ---------- */
 
